@@ -12,3 +12,5 @@
 - Fix edge case in logic (2023-11-15 9:55:00)
 - Add unit tests (2023-9-12 16:65:00)
 - Clean up temporary files (2023-6-27 15:75:00)
+- Config update (2023-1-22 14:35:00)
+
